@@ -1,0 +1,21 @@
+* {
+    background-color: lightgreen;
+}
+
+.title,
+.desc{
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: 250px;
+    display: block;
+    margin-left: 675px;
+    margin-right: auto;
+}
+
+.Steps,
+.Ingredients {
+    line-height: 200%;
+}
