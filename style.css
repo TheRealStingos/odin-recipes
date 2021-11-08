@@ -1,2 +1,10 @@
 body
     {background-color: lightgreen;}
+*
+    {text-align: center;}
+.recipes
+    {font-size: large; line-height: 200%;}
+.title
+    {font-size: 100px;}
+.title.recipes
+    {font-weight: bold;}
